@@ -92,7 +92,10 @@
 * `GET /ord/date` : Gets orders placed on given date (YYYY-MM-DD)
 * `GET /cus/ord/{id}` : Getting customer by his order id
 
-
+## Future Improvements
+* Replace UUID to JWT for Authentication
+* Add email verification
+* Implement role-based access control
 
 
 
