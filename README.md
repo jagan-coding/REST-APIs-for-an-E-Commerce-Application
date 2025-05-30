@@ -1,5 +1,6 @@
 # REST APIs for an E-Commerce Application using Spring boot
-This Project is a backend system built with **Spring Boot** that provides a set of REST APIs for an e-commerce application.  It supports user authentication, product management, cart operations, order processing, and secure token-based access control.
+* I developed this project to provide REST APIs for an e-commerce application with feautures like authentication, product management, cart and order handler.
+* The project is developed using Java and Spring boot with MYSQL as the database.  It follows a clean structure using controllers, services, repositories and DTO's.
 ---
 ## Features
 ### Authentication
